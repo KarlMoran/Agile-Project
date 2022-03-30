@@ -9,7 +9,7 @@ assignees: ''
 
 In order to **receive benefits** as a **role**, I can **goal/desire** 
 
-#Acceptance Criteria:
+# Acceptance Criteria:
 - Acceptance Criteria1:
 - Acceptance Criteria2:
 - Acceptance Criteria3:
